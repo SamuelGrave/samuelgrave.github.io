@@ -9,16 +9,15 @@ language: "" # language to set into html tag, default is en
 author: Samuel Grave
 author-title: Full Stack Developer
 email: samuel.grave.silva@outlook.com
-twitter: sammaelmh
-github: samuelgrave
-facebook: sammaelmh
-linkedin: samuelgravesilva
+twitter: itsmegrave
+github: itsmegrave
+facebook: itsmegrave
+linkedin: grave
 bio: "Father. Brazilian developer. Game, music, beer and technology lover.
       My first steps with development began at age 13, with creation of websites. In 2002 I met C#, and then I worked in several projects, focusing on web development.
-      In the last 8 years I am in the formal market as a developer.
-      I am passionate about technology and always seek new and better ways to solve problems. 
-      Enthusiast for agile methodologies, already realized projects with SCRUM, XP and attended some workshops with Kanban.
-      I like to work with both: Front-End and Back-End development. I work with many languages, frameworks and technologies"
+      Since 2015, I'm working with NodeJS. Now it's my main stack.
+      I am passionate about technology and always seek new and better ways to solve problems.
+      Enthusiast for agile methodologies, already realized projects with SCRUM, XP and attended some workshops with Kanban."
 
 # Skills
 #
@@ -35,10 +34,12 @@ bio: "Father. Brazilian developer. Game, music, beer and technology lover.
 front-end:
   - name: HTML 5
     level: 4
+  - name: React
+    level: 4
   - name: CSS 3
     level: 4
   - name: JavaScript
-    level: 3
+    level: 5
   - name: jQuery
     level: 3
   - name: Angular
@@ -56,7 +57,9 @@ back-end:
   - name: C#
     level: 5
   - name: Node.js
-    level: 2
+    level: 4
+  - name: Elixir
+    level: 3
   - name: Python
     level: 2
   - name: Java
@@ -70,11 +73,11 @@ mobile:
 
 db:
   - name: MySQL
-    level: 3
+    level: 4
   - name: PostgreSQL
-    level: 3
+    level: 4
   - name: MongoDB
-    level: 2
+    level: 3
   - name: SQL Server
     level: 4
   - name: Oracle
@@ -84,17 +87,17 @@ db:
 
 devops:
   - name: Docker
-    level: 1
+    level: 3
   - name: Git
-    level: 3
+    level: 4
   - name: Continuous Integration
-    level: 3
+    level: 4
   - name: Continuous Delivery
-    level: 2
+    level: 4
 
 methodologies:
   - name: Agile Methodologies
-    level: 3
+    level: 4
   - name: Scrum
     level: 4
 
@@ -105,8 +108,8 @@ others:
     level: 4
   - name: EntityFramework
     level: 3
-  - name: MEAN Stack
-    level: 3
+  - name: MERN Stack
+    level: 4
 
 # Build settings
 
